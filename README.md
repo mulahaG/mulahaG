@@ -6,3 +6,5 @@
 
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
 
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/****)
+
