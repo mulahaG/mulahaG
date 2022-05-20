@@ -4,4 +4,4 @@
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&show_icons=true&theme=radical)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulahaG)](https://github.com/mulahaG/github-readme-stats)</br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Python-#007396?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-#007396?style=flat-square&logo=Java&logoColor=white)
