@@ -8,7 +8,7 @@ phon_number : 010-4424-2187</br>
 ![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&hide=stars,contribs&count_private=true&show_icons=true&&theme=solarized-highcontrast)
 
 💪 I’m currently Top Languages</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulahaG)](https://github.com/mulahaG/github-readme-stats)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulahaG)(https://github.com/mulahaG/github-readme-stats)</br>
 
 
 사용가능 언어<</br>
