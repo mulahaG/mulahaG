@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=Mr.Jung_Portfolio&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
+
 name : 정성훈 (SungHun_Jung)</br>
 e-mail : hanmajsh1@gmail.com</br>
 phon_number : 010-4424-2187</br>
 
-🔭 I’m currently working on
-
+🔭 I’m currently working on</br>
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&hide=stars,contribs&count_private=true&show_icons=true&&theme=solarized-highcontrast)
 
 💪 I’m currently Top Languages</br>
