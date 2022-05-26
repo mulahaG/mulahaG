@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=MunlahaG_GitHub&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=071D49&height=250&section=header&text=MunlahaG_GitHub&fontColor=26689A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 ### 💻 &nbsp;GitHub Analytics</br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mulahaG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulahaG&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
 
 ### 🛠 &nbsp;Technical Skills</br>
