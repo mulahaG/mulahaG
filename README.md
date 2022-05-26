@@ -5,14 +5,12 @@ name : 정성훈 (SungHun_Jung)</br>
 e-mail : hanmajsh1@gmail.com</br>
 phon_number : 010-4424-2187</br>
 
-🧰 I’m currently working on</br>
+💻 GitHub Analytics</br>
 ![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&hide=stars,contribs&count_private=true&show_icons=true&&theme=solarized-highcontrast)
-
-💪 I’m currently Top Languages</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulahaG)</br>
 
 
-🗣 Language I can use</br>
+🛠 Language I can use</br>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
