@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=개발자 정성훈&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=정성훈&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%50&descAlignY=&descAlign=)
 
 💻 GitHub Analytics</br>
 ![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&hide=stars,contribs&count_private=true&show_icons=true&&theme=solarized-highcontrast))</br>
