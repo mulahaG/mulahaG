@@ -6,7 +6,7 @@ e-mail : hanmajsh1@gmail.com</br>
 phon_number : 010-4424-2187</br>
 
 💻 GitHub Analytics</br>
-![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&hide=stars,contribs&count_private=true&show_icons=true&&theme=solarized-highcontrast)
+![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulahaG&hide=stars,contribs&count_private=true&show_icons=true&&theme=solarized-highcontrast))</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulahaG)</br>
 
 
